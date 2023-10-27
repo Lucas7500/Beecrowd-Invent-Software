@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\Beecrowd\Area\bin\Debug\net6.0\Area.exe
+C:\Users\usuario\source\repos\Beecrowd\Area\bin\Debug\net6.0\Area.deps.json
+C:\Users\usuario\source\repos\Beecrowd\Area\bin\Debug\net6.0\Area.runtimeconfig.json
+C:\Users\usuario\source\repos\Beecrowd\Area\bin\Debug\net6.0\Area.dll
+C:\Users\usuario\source\repos\Beecrowd\Area\bin\Debug\net6.0\Area.pdb
+C:\Users\usuario\source\repos\Beecrowd\Area\obj\Debug\net6.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Beecrowd\Area\obj\Debug\net6.0\Area.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Beecrowd\Area\obj\Debug\net6.0\Area.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Beecrowd\Area\obj\Debug\net6.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Beecrowd\Area\obj\Debug\net6.0\Area.dll
+C:\Users\usuario\source\repos\Beecrowd\Area\obj\Debug\net6.0\refint\Area.dll
+C:\Users\usuario\source\repos\Beecrowd\Area\obj\Debug\net6.0\Area.pdb
+C:\Users\usuario\source\repos\Beecrowd\Area\obj\Debug\net6.0\Area.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Beecrowd\Area\obj\Debug\net6.0\ref\Area.dll

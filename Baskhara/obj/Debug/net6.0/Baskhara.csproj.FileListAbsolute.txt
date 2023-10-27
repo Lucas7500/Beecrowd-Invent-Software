@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\bin\Debug\net6.0\Baskhara.exe
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\bin\Debug\net6.0\Baskhara.deps.json
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\bin\Debug\net6.0\Baskhara.runtimeconfig.json
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\bin\Debug\net6.0\Baskhara.dll
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\bin\Debug\net6.0\Baskhara.pdb
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\obj\Debug\net6.0\Baskhara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\obj\Debug\net6.0\Baskhara.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\obj\Debug\net6.0\Baskhara.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\obj\Debug\net6.0\Baskhara.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\obj\Debug\net6.0\Baskhara.dll
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\obj\Debug\net6.0\refint\Baskhara.dll
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\obj\Debug\net6.0\Baskhara.pdb
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\obj\Debug\net6.0\Baskhara.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Beecrowd\Baskhara\obj\Debug\net6.0\ref\Baskhara.dll
